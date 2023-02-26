@@ -15,7 +15,7 @@
 * 可透過「清除紀錄」來清除之前的雜湊結果
 
 ### 範例圖：
-![](https://i.imgur.com/wU897Kx.png)
+![image](https://user-images.githubusercontent.com/93152909/221432622-d99f9027-98aa-4022-bc3b-fda30bd3b81c.png)
 
 ## MD5簡介
 > 全名為：Message-Digest Algorithm，5表示第五代
